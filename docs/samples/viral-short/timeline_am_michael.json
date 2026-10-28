@@ -1,0 +1,144 @@
+[
+ {
+  "id": "hook",
+  "start": 0.0,
+  "speech_end": 4.0732083333333335,
+  "end": 4.193208333333334,
+  "text": "Stop editing videos by hand. This free AI tool does all of it.",
+  "chunks": [
+   "Stop editing",
+   "videos by hand.",
+   "This FREE AI tool",
+   "does ALL of it."
+  ]
+ },
+ {
+  "id": "topic",
+  "start": 4.193208333333334,
+  "speech_end": 5.392625000000001,
+  "end": 5.512625000000001,
+  "text": "You type one topic.",
+  "chunks": [
+   "You type",
+   "ONE topic."
+  ]
+ },
+ {
+  "id": "script",
+  "start": 5.512625,
+  "speech_end": 6.834125,
+  "end": 6.954125,
+  "text": "AI writes the script.",
+  "chunks": [
+   "AI writes",
+   "the script."
+  ]
+ },
+ {
+  "id": "footage",
+  "start": 6.9541249999999994,
+  "speech_end": 8.143583333333332,
+  "end": 8.263583333333331,
+  "text": "It finds the footage.",
+  "chunks": [
+   "It finds",
+   "the footage."
+  ]
+ },
+ {
+  "id": "voice",
+  "start": 8.263583333333333,
+  "speech_end": 9.751291666666667,
+  "end": 9.871291666666666,
+  "text": "It records the voiceover.",
+  "chunks": [
+   "It records",
+   "the voiceover."
+  ]
+ },
+ {
+  "id": "subs",
+  "start": 9.871291666666666,
+  "speech_end": 11.501333333333333,
+  "end": 11.621333333333332,
+  "text": "It adds subtitles and music.",
+  "chunks": [
+   "Adds subtitles",
+   "AND music."
+  ]
+ },
+ {
+  "id": "export",
+  "start": 11.621333333333332,
+  "speech_end": 15.057833333333333,
+  "end": 15.177833333333332,
+  "text": "Then it exports a finished video. Vertical or horizontal.",
+  "chunks": [
+   "Then it exports",
+   "a finished video.",
+   "Vertical",
+   "or horizontal."
+  ]
+ },
+ {
+  "id": "nos",
+  "start": 15.177833333333332,
+  "speech_end": 17.259083333333333,
+  "end": 17.379083333333334,
+  "text": "No camera. No editing. No face.",
+  "chunks": [
+   "No camera.",
+   "No editing.",
+   "No face."
+  ]
+ },
+ {
+  "id": "batch",
+  "start": 17.379083333333334,
+  "speech_end": 19.835,
+  "end": 19.955000000000002,
+  "text": "Need more? Make several videos in one run.",
+  "chunks": [
+   "Need more?",
+   "Make several videos",
+   "in ONE run."
+  ]
+ },
+ {
+  "id": "name",
+  "start": 19.955000000000002,
+  "speech_end": 23.341458333333335,
+  "end": 23.461458333333336,
+  "text": "It's called Money Printer Turbo. Open source, on GitHub.",
+  "chunks": [
+   "It's called",
+   "MoneyPrinterTurbo.",
+   "Open source,",
+   "on GitHub."
+  ]
+ },
+ {
+  "id": "twist",
+  "start": 23.461458333333336,
+  "speech_end": 26.258625000000002,
+  "end": 26.378625000000003,
+  "text": "Plot twist. This video was put together with it.",
+  "chunks": [
+   "Plot twist.",
+   "This video was",
+   "put together",
+   "with it."
+  ]
+ },
+ {
+  "id": "cta",
+  "start": 26.378625000000003,
+  "speech_end": 28.32529166666667,
+  "end": 28.44529166666667,
+  "text": "Follow for more free AI tools.",
+  "chunks": [
+   "Follow for more",
+   "free AI tools."
+  ]
+ }
+]

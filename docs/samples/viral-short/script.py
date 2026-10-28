@@ -1,0 +1,20 @@
+# Beat sheet: (scene_id, narration, caption chunks)
+BEATS = [
+    ("hook",    "Stop editing videos by hand. This free AI tool does all of it.",
+                ["Stop editing", "videos by hand.", "This FREE AI tool", "does ALL of it."]),
+    ("topic",   "You type one topic.", ["You type", "ONE topic."]),
+    ("script",  "AI writes the script.", ["AI writes", "the script."]),
+    ("footage", "It finds the footage.", ["It finds", "the footage."]),
+    ("voice",   "It records the voiceover.", ["It records", "the voiceover."]),
+    ("subs",    "It adds subtitles and music.", ["Adds subtitles", "AND music."]),
+    ("export",  "Then it exports a finished video. Vertical or horizontal.",
+                ["Then it exports", "a finished video.", "Vertical", "or horizontal."]),
+    ("nos",     "No camera. No editing. No face.", ["No camera.", "No editing.", "No face."]),
+    ("batch",   "Need more? Make several videos in one run.",
+                ["Need more?", "Make several videos", "in ONE run."]),
+    ("name",    "It's called Money Printer Turbo. Open source, on GitHub.",
+                ["It's called", "MoneyPrinterTurbo.", "Open source,", "on GitHub."]),
+    ("twist",   "Plot twist. This video was put together with it.",
+                ["Plot twist.", "This video was", "put together", "with it."]),
+    ("cta",     "Follow for more free AI tools.", ["Follow for more", "free AI tools."]),
+]
