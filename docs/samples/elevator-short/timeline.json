@@ -1,0 +1,360 @@
+[
+ {
+  "id": "hook",
+  "start": 0.0,
+  "chunks": [
+   [
+    0.0,
+    0.7505914634146341,
+    "You've ridden"
+   ],
+   [
+    0.7505914634146341,
+    1.3857073170731706,
+    "an elevator"
+   ],
+   [
+    1.3857073170731706,
+    2.36725,
+    "a thousand times."
+   ],
+   [
+    2.44725,
+    3.34334681372549,
+    "But what's actually"
+   ],
+   [
+    3.34334681372549,
+    4.050791666666667,
+    "holding you UP?"
+   ]
+  ],
+  "text": "You've ridden an elevator a thousand times. But what's actually holding you up?",
+  "end": 4.210791666666667
+ },
+ {
+  "id": "pull",
+  "start": 4.210791666666667,
+  "chunks": [
+   [
+    4.210791666666667,
+    5.022044270833334,
+    "Most elevators"
+   ],
+   [
+    5.022044270833334,
+    6.065083333333334,
+    "don't PUSH you up."
+   ],
+   [
+    6.145083333333334,
+    6.939708333333334,
+    "They PULL you."
+   ]
+  ],
+  "text": "Most elevators don't push you up. They pull you.",
+  "end": 7.099708333333334
+ },
+ {
+  "id": "ropes",
+  "start": 7.099708333333334,
+  "chunks": [
+   [
+    7.099708333333334,
+    8.020672429078015,
+    "Steel ropes run"
+   ],
+   [
+    8.020672429078015,
+    8.818841312056739,
+    "from the car,"
+   ],
+   [
+    8.818841312056739,
+    10.230986258865249,
+    "up over a grooved wheel"
+   ],
+   [
+    10.230986258865249,
+    11.213347960992909,
+    "called a sheave,"
+   ],
+   [
+    11.213347960992909,
+    12.011516843971632,
+    "and down to a"
+   ],
+   [
+    12.011516843971632,
+    12.871083333333335,
+    "counterweight."
+   ]
+  ],
+  "text": "Steel ropes run from the car, up over a grooved wheel called a sheave, and down to a counterweight.",
+  "end": 13.031083333333335
+ },
+ {
+  "id": "counter",
+  "start": 13.031083333333335,
+  "chunks": [
+   [
+    13.031083333333335,
+    14.283718750000002,
+    "That counterweight"
+   ],
+   [
+    14.283718750000002,
+    15.257990740740743,
+    "weighs as much"
+   ],
+   [
+    15.257990740740743,
+    16.02349016203704,
+    "as the car,"
+   ],
+   [
+    16.02349016203704,
+    16.997762152777778,
+    "plus about 40%"
+   ],
+   [
+    16.997762152777778,
+    18.041625,
+    "of a full load."
+   ]
+  ],
+  "text": "That counterweight weighs as much as the car, plus about forty percent of a full load.",
+  "end": 18.201625000000003
+ },
+ {
+  "id": "balance",
+  "start": 18.201625000000003,
+  "chunks": [
+   [
+    18.201625000000003,
+    18.809708333333337,
+    "So the motor"
+   ],
+   [
+    18.809708333333337,
+    19.41779166666667,
+    "ISN'T really"
+   ],
+   [
+    19.41779166666667,
+    20.025875000000003,
+    "lifting you."
+   ],
+   [
+    20.105875,
+    20.916525862068966,
+    "It's just tipping"
+   ],
+   [
+    20.916525862068966,
+    21.48875,
+    "the balance."
+   ]
+  ],
+  "text": "So the motor isn't really lifting you. It's just tipping the balance.",
+  "end": 21.64875
+ },
+ {
+  "id": "traction",
+  "start": 21.64875,
+  "chunks": [
+   [
+    21.64875,
+    22.445033950617283,
+    "Friction between"
+   ],
+   [
+    22.445033950617283,
+    23.63945987654321,
+    "the rope and the grooves"
+   ],
+   [
+    23.63945987654321,
+    24.336208333333335,
+    "does the rest."
+   ],
+   [
+    24.41620833333333,
+    25.31545833333333,
+    "That's TRACTION."
+   ]
+  ],
+  "text": "Friction between the rope and the grooves does the rest. That's traction.",
+  "end": 25.47545833333333
+ },
+ {
+  "id": "snap",
+  "start": 25.47545833333333,
+  "chunks": [
+   [
+    25.47545833333333,
+    26.077326388888885,
+    "But what if"
+   ],
+   [
+    26.077326388888885,
+    26.788624999999996,
+    "a rope SNAPS?"
+   ],
+   [
+    26.868624999999994,
+    27.588983333333328,
+    "You're hanging"
+   ],
+   [
+    27.588983333333328,
+    28.669520833333326,
+    "from several of them,"
+   ],
+   [
+    28.669520833333326,
+    29.49278749999999,
+    "built many times"
+   ],
+   [
+    29.49278749999999,
+    30.16169166666666,
+    "stronger than"
+   ],
+   [
+    30.16169166666666,
+    30.984958333333324,
+    "they need to be."
+   ]
+  ],
+  "text": "But what if a rope snaps? You're hanging from several of them, built many times stronger than they need to be.",
+  "end": 31.144958333333328
+ },
+ {
+  "id": "brakes",
+  "start": 31.144958333333328,
+  "chunks": [
+   [
+    31.144958333333328,
+    31.97564634146341,
+    "And if the car"
+   ],
+   [
+    31.97564634146341,
+    33.162343495934955,
+    "ever falls too fast,"
+   ],
+   [
+    33.162343495934955,
+    34.17103607723577,
+    "a governor trips,"
+   ],
+   [
+    34.17103607723577,
+    35.120393800813005,
+    "and brakes CLAMP"
+   ],
+   [
+    35.120393800813005,
+    36.010416666666664,
+    "onto the rails."
+   ]
+  ],
+  "text": "And if the car ever falls too fast, a governor trips, and brakes clamp onto the rails.",
+  "end": 36.17041666666666
+ },
+ {
+  "id": "otis",
+  "start": 36.17041666666666,
+  "chunks": [
+   [
+    36.17041666666666,
+    36.91499897119341,
+    "Elisha Otis"
+   ],
+   [
+    36.91499897119341,
+    38.13340637860082,
+    "proved it in 1854,"
+   ],
+   [
+    38.13340637860082,
+    39.62257098765431,
+    "by having the rope cut"
+   ],
+   [
+    39.62257098765431,
+    40.570221193415634,
+    "while he stood"
+   ],
+   [
+    40.570221193415634,
+    41.65324999999999,
+    "on the platform."
+   ]
+  ],
+  "text": "Elisha Otis proved it in eighteen fifty-four, by having the rope cut while he stood on the platform.",
+  "end": 41.81324999999999
+ },
+ {
+  "id": "button",
+  "start": 41.81324999999999,
+  "chunks": [
+   [
+    41.81324999999999,
+    42.42994999999999,
+    "Oh, and that"
+   ],
+   [
+    42.42994999999999,
+    43.35499999999999,
+    "CLOSE DOOR button?"
+   ],
+   [
+    43.43499999999999,
+    44.37966666666666,
+    "On many elevators,"
+   ],
+   [
+    44.37966666666666,
+    45.32433333333333,
+    "it's switched OFF."
+   ],
+   [
+    45.40433333333332,
+    46.27891666666665,
+    "It's really there"
+   ],
+   [
+    46.27891666666665,
+    47.15349999999999,
+    "for firefighters."
+   ]
+  ],
+  "text": "Oh, and that close door button? On many elevators, it's switched off. It's really there for firefighters.",
+  "end": 47.31349999999998
+ },
+ {
+  "id": "cta",
+  "start": 47.31349999999998,
+  "chunks": [
+   [
+    47.31349999999998,
+    48.16008653846152,
+    "Follow for more"
+   ],
+   [
+    48.16008653846152,
+    48.95023397435896,
+    "things you use"
+   ],
+   [
+    48.95023397435896,
+    49.51462499999998,
+    "every day."
+   ]
+  ],
+  "text": "Follow for more things you use every day.",
+  "end": 49.67462499999998
+ }
+]
